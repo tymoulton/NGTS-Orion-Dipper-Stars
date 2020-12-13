@@ -3,8 +3,6 @@ Code associated with current results and logged work on The Search for Dipper St
 
 Work to be submitted to Monthly Notices of the Royal Astronomical Society, expected January 2021
 
-# Alien Sulfur Cycles
-Code associated with “Sulfate Aerosol Hazes and SO2 Gas as Constraints on Rocky Exoplanets' Surface Liquid Water” by Loftus, Wordsworth, &amp; Morley (2019), submitted ApJ. (Henceforth, LoWoMo19.)
 
 ### Logistics
 The code is written in Python 3.
